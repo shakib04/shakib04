@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shakib04
 - 👀 I’m interested in developing application in Spring Boot and Angular.
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently developing application in Spring Boot and Angular stack.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
