@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Md. Shakibul Alam
-- 👀 I’m interested in developing application in Spring Boot and Angular.
-- 🌱 I’m currently developing application in Spring Boot and Angular stack.
-<!-- - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... -->
+#### 👋 Hi, I’m Md. Shakibul Alam. I am a spring boot/java developer with 02 years of experience.
+  
+### My Expertise area -
+- Spring boot
+- Postgres SQL
+- Spring Data JPA & JDBC Template
+- Spring Rest API
+- RabbitMQ
+- Redis
+- Thymeleaf
+- Build tools - Gradle, Maven
+- Spring Security
+- Docker
+- Deployment
+- Unit & Integration Testing
+- Git and Gitlab, Github (https://github.com/shakib04)
+- Front-end: HTML, CSS, JavaScript & Angular (I also love to work in Angular)
+- Postman & Swagger
 
-<!---
-shakib04/shakib04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+*Looking forward to collaborating in Open Source & Paid Projects.*
+
